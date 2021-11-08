@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Mark
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
-
 ## I'm a FrontEnd Developer
 - 🦾 I like to write code
 - ⭐️ I love cycling and to read books
