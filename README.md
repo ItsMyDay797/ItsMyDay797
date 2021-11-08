@@ -30,5 +30,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/mark-rusakov-212a94208/
-[instagram]: https://www.instagram.com/mark.rusakovv/
+[instagram]: https://www.instagram.com/mark_rusakovv/
 [vk]: https://vk.com/ltsmyday
